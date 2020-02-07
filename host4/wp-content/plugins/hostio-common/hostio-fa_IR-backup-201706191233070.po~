@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hostio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-19 12:31+0000\n"
+"PO-Revision-Date: 2017-06-19 12:40+0000\n"
+"Last-Translator: WebDesign <Test@Te203lst.com>\n"
+"Language-Team: Persian\n"
+"Language: fa-IR\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ReduxFramework/sample/sample-config.php:207
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: ReduxFramework/sample/sample-config.php:212
+msgid "Author content"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:220
+msgid "Description content"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:228
+#: ReduxFramework/sample/sample-config.php:244
+msgid "SEO Description"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:236
+msgid "Viewport content"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:252
+msgid "SEO Keywords"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:262
+msgid "Logo & Favicon Settings"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:268
+msgid "Custom Favicon"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:271
+msgid "Upload your Favicon."
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:279
+msgid "Logo Upload"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:284
+msgid "Upload your logo."
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:292
+msgid "Logo footer"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:296
+msgid "Upload your logo footer."
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:303
+msgid "Image Preload"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:307
+msgid "Upload your image preload."
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:314
+msgid "Header Background"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:318
+msgid "Upload your image Header Background."
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:326
+msgid "Blog Settings"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:331
+msgid "Blog Title"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:332
+msgid "Input Blog Title"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:339
+msgid "Blog custom excerpt leng"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:340
+msgid "Input Blog custom excerpt leng"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:347
+msgid "Button Text For Post"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:348
+msgid "Input Button Text"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:355
+msgid "Text in"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:356
+msgid "text in"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:363
+msgid "Text on"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:364
+msgid "text on"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:371
+msgid "Text By"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:372
+msgid "text By"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:380
+msgid "Page Settings"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:387
+msgid "Page image background Upload"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:391
+msgid "Upload page background image."
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:397
+#: ReduxFramework/sample/sample-config.php:398
+msgid "Page send mail"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:405
+#: ReduxFramework/sample/sample-config.php:406
+msgid "Page review mail"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:413
+#: ReduxFramework/sample/sample-config.php:414
+msgid "Page contact send mail"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:424
+msgid "404 Settings"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:429
+msgid "404 Title"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:430
+msgid "Input 404 Title"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:438
+msgid "404 Desc"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:439
+msgid "Input 404 Desc"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:446
+msgid "404 subtitle"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:447
+msgid "Input 404 subtitle"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:454
+msgid "404 text button"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:455
+msgid "Input 404 text button"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:464
+msgid "Form Settings"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:469
+#: ReduxFramework/sample/sample-config.php:470
+msgid "Form email"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:478
+msgid "Apply Online Settings"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:483
+#: ReduxFramework/sample/sample-config.php:484
+msgid "Apply email receive"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:491
+#: ReduxFramework/sample/sample-config.php:492
+msgid "Apply page send"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:499
+#: ReduxFramework/sample/sample-config.php:500
+msgid "Apply template"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:508
+msgid "Header Settings"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:513
+#: ReduxFramework/sample/sample-config.php:514
+msgid "Header icon phone"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:520
+#: ReduxFramework/sample/sample-config.php:521
+msgid "Header text number"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:527
+#: ReduxFramework/sample/sample-config.php:528
+msgid "Header icon mail"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:534
+#: ReduxFramework/sample/sample-config.php:535
+msgid "Header mail"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:543
+msgid "Contact Settings"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:548
+#: ReduxFramework/sample/sample-config.php:549
+msgid "Link face"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:555
+#: ReduxFramework/sample/sample-config.php:556
+msgid "Class name icon face"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:562
+#: ReduxFramework/sample/sample-config.php:563
+msgid "Link twitter"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:569
+#: ReduxFramework/sample/sample-config.php:570
+msgid "Class name icon twitter"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:576
+#: ReduxFramework/sample/sample-config.php:577
+msgid "Link instagram"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:583
+#: ReduxFramework/sample/sample-config.php:584
+msgid "Class name icon instagram"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:590
+#: ReduxFramework/sample/sample-config.php:591
+msgid "Link skype"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:597
+#: ReduxFramework/sample/sample-config.php:598
+msgid "Class name icon skype"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:604
+#: ReduxFramework/sample/sample-config.php:605
+msgid "Link google"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:611
+#: ReduxFramework/sample/sample-config.php:612
+msgid "Class name icon google"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:618
+#: ReduxFramework/sample/sample-config.php:619
+msgid "Link youtube"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:625
+#: ReduxFramework/sample/sample-config.php:626
+msgid "Class name icon youtube"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:632
+#: ReduxFramework/sample/sample-config.php:633
+msgid "Link linkedin"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:639
+#: ReduxFramework/sample/sample-config.php:640
+msgid "Class name icon linkedin"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:648
+msgid "Footer Settings"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:653
+msgid "Footer Template"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:654
+msgid "Template footer"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:660
+msgid "Footer Text"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:661
+msgid "Copyright Text"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:669
+msgid "Styling Options"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:675
+msgid "Background header"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:679
+msgid "Upload your background header."
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:685
+msgid "Support RTL language"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:693
+msgid "Enable edit color"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:701
+msgid "Theme Main Color 1"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:702
+msgid "Pick the main color for the theme (default: #ffe79b)."
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:709
+msgid "Theme menu primary color"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:710
+msgid "Pick the menu color for the theme "
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:717
+msgid "Theme menu child color"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:718
+msgid "Pick the menu child color for the theme "
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:725
+msgid "Theme menu hover color"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:726
+msgid "Pick the hover color for the theme "
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:733
+msgid "Theme animation color 1"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:734
+#: ReduxFramework/sample/sample-config.php:742
+msgid "Pick the animation color for the theme "
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:741
+msgid "Theme animation color 2"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:749
+msgid "Theme title color"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:750
+msgid "Pick the title color for the theme "
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:760
+msgid "Body Font"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:761
+msgid "Specify the body font properties."
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:773
+msgid "CSS Code"
+msgstr ""
+
+#: ReduxFramework/sample/sample-config.php:774
+msgid "Paste your CSS code here."
+msgstr ""
+
+#. Name of the plugin
+msgid "hostio-common"
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin to create custom post type, metabox..."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "vergatheme.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Vergatheme"
+msgstr ""

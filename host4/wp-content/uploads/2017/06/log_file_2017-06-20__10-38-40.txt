@@ -1,0 +1,31 @@
+
+---Downloaded files---
+The import files for: Demo Import Hostio were successfully downloaded!
+Initial max execution time = 1000
+Files info:
+Site URL = http://hi-shop.ir/hostio
+Data file = /home/hishop/domains/hi-shop.ir/public_html/hostio/wp-content/uploads/2017/06/demo-content-import-file_2017-06-20__10-38-40.xml
+Widget file = /home/hishop/domains/hi-shop.ir/public_html/hostio/wp-content/uploads/2017/06/demo-widgets-import-file_2017-06-20__10-38-40.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+منوکناری اولیه : 
+
+دسته‌ها - No Title - Widget already exists
+آخرین پست‌های هاستیو - Popular Posts - Widget already exists
+ابرچسب - Popular Tags - Widget already exists
+
+فوتر یک در قسمت ابزارک‌ها : 
+
+متن - No Title - Imported
+
+فوتر دو در قسمت ابزارک‌ها : 
+
+متن - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+

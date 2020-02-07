@@ -1,0 +1,359 @@
+/*
+Theme Name: Hostio
+Theme URI: http://shtheme.com/demosd/hostio
+Author: Verga Theme Team
+Author URI: http://shtheme.com
+Description: In 2017, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags:   two-columns, three-columns, left-sidebar, right-sidebar,  custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+Text Domain: hostio
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+/* ========TABLE OF CONTENTS==========
+00. Body, links, hgroup, paragraphs, general styles
+01. Fixed header & Navigation
+02. Section Intro (Home)
+03. Section About
+04. Section Resume
+05. Section Portfolio
+06. Section Blog
+07. Section Contact
+08. Footer
+09. Loader
+10. Responsive design
+
+/*--------------------------------------------------
+    00. Body, links, hgroup, paragraphs, general styles
+---------------------------------------------------*/
+
+body {
+    transition: all 0.3s ease 0.0s;
+    font-family: 'Montserrat-Regular', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+button, input, select, textarea{max-width: 100%;}
+select{height: 36px;width: 100%;}
+#wp-calendar {width: 100%; }
+#wp-calendar caption { 
+    background: none repeat scroll 0 0 #E9E9E9;
+    color: #333333;
+    font-size: 16px;
+    padding: 10px 0;
+    text-align: center; 
+}
+#wp-calendar thead { font-size: 10px; }
+#wp-calendar thead th {
+    border: 1px solid #E9E9E9;
+    font-size: 13px;
+    padding: 8px 0;
+    text-align: center;
+    vertical-align: middle;
+}
+#wp-calendar tbody { color: #aaa; }
+#wp-calendar tbody td { background: #f5f5f5; border: 1px solid #E9E9E9; text-align: center; padding:8px;}
+#wp-calendar tbody td#today {background: #1cafec;color: #fff;}
+#wp-calendar tbody td:hover { background: #fff; }
+#wp-calendar tbody .pad { background: none; }
+#wp-calendar tfoot {border: 1px solid #E9E9E9;}
+#wp-calendar tfoot #next { font-size: 12px; text-transform: uppercase; text-align: right; color: #83c99f;}
+#wp-calendar tfoot #prev { font-size: 12px; text-transform: uppercase; padding-top: 10px; color: #83c99f;}
+#page-content table{ 
+    border-collapse: separate;
+    border-spacing: 0;
+    border-width: 1px 0 0 1px;
+    margin: 0 0 1.75em!important;
+    table-layout: fixed;
+    width: 100%;
+    border: 1px solid #d1d1d1;
+}
+#page-content table td{
+    border: 1px solid #d1d1d1;
+    padding-left: 7px;
+} 
+#page-content table th{
+    border: 1px solid #d1d1d1;
+    padding-left: 7px;
+ }
+
+#page-content h1{font-size: 48px;margin-top: 15px;margin-bottom: 15px;}
+#page-content h2{font-size: 42px;margin-top: 15px;margin-bottom: 15px;}
+#page-content h3{font-size: 36px;margin-top: 15px;margin-bottom: 15px;}
+#page-content h4{font-size: 30px;margin-top: 15px;margin-bottom: 15px;}
+#page-content h5{font-size: 24px;margin-top: 15px;margin-bottom: 15px;}
+#page-content h6{font-size: 18px;margin-top: 15px;margin-bottom: 15px;}
+.meta-info h4{color: #333!important;font-family: sans-serif!important;}
+.submitSearch{display: none;}
+#s{width: 100%;height: 40px;}
+#custom-search-input{margin-bottom: 40px;}
+.widget_categories ul li a{width: calc(100% - 40px)!important;}
+.widget-area ul li ul{margin-left: 20px;display: none;}
+.row-subtitle{width: 65%;margin: auto;}
+.navbar-nav a i{margin-right: 5px;}
+.alignright{float: right;max-width: 100%;}
+.alignleft{float: left;max-width: 100%;margin-right: 10px;}
+.alignnone{max-width: 100%;height: auto;}
+.post-content h4{color: #333!important;font-family:  sans-serif!important;}
+.item-comment{margin-top: 15px;margin-bottom: 15px;}
+.tagcloud ul, .widget_categories ul, .pagination ul{padding-left: 0!important;}
+.tagcloud ul li{
+	display: inline-block;
+    list-style: none;
+    border-radius: 50px;
+    padding: 8px 15px!important;
+    background: #f6f7f7;
+    border: 1px solid #f6f7f7;
+    border-radius: 50px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 7px;
+    
+}
+.tagcloud ul li a{
+	color: #ababab;
+    line-height: 1;
+    font-size: 14px!important;
+    text-decoration: none;
+}
+.tagcloud ul li:hover{background: #3c99ef;}
+.tagcloud ul li:hover a{
+	color: #ffffff;
+}
+.widget_categories ul li a{
+    color: #696969;
+    display: inline-block;
+    width: 100%;
+    padding: 5px 0;
+    position: relative;
+    text-decoration: none;
+}
+.current{
+    border: 1px solid #e1e1e1;
+    color: #bfbfbf!important;
+}
+.pagination>li>a:focus, .pagination>li>a:hover, .pagination>li>span:focus, .pagination>li>span:hover{
+    background-color: #3c99ef;
+    color: #ffffff;
+    transition: none!important;
+}
+.meta-info h3{
+    font-size: 20px!important;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    color: #333;
+}
+.meta-info p{
+    margin-bottom: 10px!important;
+}
+h2.tit_cmt{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.logged-in-as a{
+    color: #5f6576;
+    text-decoration: none;
+}
+.logged-in-as a:hover{
+    color: #000;
+}
+.form-submit input{
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 5px 15px;
+    color: #5f6576;
+    border-radius: 5px;
+}
+.form-submit input:hover{
+    background: #1f8ded;
+    color: #fff;
+}
+h3.comment-reply-title{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.form-group textarea{
+    margin-top: 30px;
+}
+
+
+#page-content a{
+    color: #5f6576;
+    text-decoration: none;
+}
+#page-content a:hover{
+    color: #000;
+}
+#sidebar ul{list-style: none;padding-left: 0!important;}
+#sidebar ul li{padding: 5px 0;}
+#sidebar .info{padding-left: 0!important;padding-right: 0!important;}
+.widget-area .row{margin-right: 0!important; margin-left: 0!important;}
+.widget-area label{display: none;}
+.post-password-form input[type="submit"]{color: #fff;background: #333;border-color:#333;}
+.post-password-form input{margin-left: 10px;}
+#post-body ul{padding-left: 10px;}
+.aligncenter{margin:auto;}
+.widget_text img{margin-top: 10px;margin-bottom: 10px;}
+ul.cate{list-style: none;float: left;width: 100%;padding-left: 0!important;}
+ul.cate li{
+    border: 1px solid #c2c2c2;
+    border-radius: 5px;
+    margin: 0 10px 0 0;
+    padding: 5px 10px!important;
+    max-width: 100%;
+    float: left;
+}
+.signin-signup-form {
+    color: #fff;
+    font-size: 13px;
+}
+ul.cate li:hover{
+    background:#2f506c;
+}
+ul.cate li:hover a{
+    color:#fff!important;
+}
+.screen-reader-text{color: #000!important;}
+.featured-post{color: rgb(179, 0, 0);}
+ul.cate{margin-top: 10px;}
+#page-content #post-body .post .post-title{
+    margin-top: 0px;
+}
+.widget, .post{
+    overflow: hidden;
+}
+#page-content p{
+    line-height: 28px;
+}
+.post h4.post-title{
+    margin-top: 10px;
+}
+#page-content #post-body .post .post-thumbnail{
+    margin-bottom: 15px;
+}
+.post-content ul{
+    list-style: circle;
+    padding-left: 18px!important;
+}
+#info p{line-height: 29px;text-align: justify;}
+
+#more-info .get-started-button{
+
+    border: 2px solid #a8ddfd;
+
+}
+
+#more-info .row-subtitle{
+
+    font-weight: 500;
+
+}
+
+#sub-pricing .pricing-box .pricing-details ul li{
+
+    padding-top: 4px;
+
+    padding-bottom: 4px;
+
+}
+
+#sub-pricing .pricing-box{
+
+    margin-right: 25px;
+
+}
+
+.form-items-holder .form-button input{
+
+    float: right;
+
+}
+
+#story p{color: white;line-height: initial;}
+
+.logged-in .cloned{top: 32px!important;}
+.post img{
+    width: auto!important;
+}
+
+
+.navbar-nav>li>.dropdown-menu{display: none;}
+.navbar-nav>li:hover>.dropdown-menu{display: block;}
+
+#page-content .post .post-entry .date-published, #page-content #sidebar #popular-posts.widget .item .info .date{
+    color: #5f6576!important;
+}
+
+#page-content #sidebar .widget-title{
+    font-size: 17px;
+}
+#page-content h2.tit_cmt{
+    font-size: 23px;
+}
+#page-content h3.comment-reply-title{
+    font-size: 23px;
+}
+.page-title{
+    font-size: 30px;
+    font-weight: 600;
+}
+.nav.navbar-nav li ul li ul{display: none!important;}
+.nav.navbar-nav li ul li:hover ul{display: block!important;position: relative!important;top: 0!important;box-shadow: none;margin: 0!important;}
+
+#page-content .post .post-thumbnail img{
+    margin-bottom: 15px;
+}
+#page-content .post .post-entry .date-published{
+    display: inline-block;
+}
+.featured-post{
+    float: right;
+    color: #3c99ef;
+}
+#page-content .post .post-entry .readmore{
+    display: inline-block;
+}
+.post-entry .meta{
+    float: right;
+}
+#page-content .post .post-entry a .post-title{
+   font-size: 30px;
+}
+
+.item-comment{
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e1e1e1;
+    margin-left:0px;
+    margin-right: 0px;
+}
+.search-custom{
+    margin-top: 15px;
+}
+.search-custom .row{
+    margin-left:0px;
+    margin-right: 0px;
+}
+
+@media(max-width: 900px){
+    .affix{
+        position: absolute!important;
+    }
+    body.logged-in nav.affix{
+    top: 46px!important;
+}
+}
+#respond{
+    padding-top: 180px;
+    margin-top: -150px;
+}
+.affix{
+        position: relative!important;
+    }

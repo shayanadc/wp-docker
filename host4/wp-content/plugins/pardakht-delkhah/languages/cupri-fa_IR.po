@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: custom price payment\n"
+"POT-Creation-Date: 2020-01-27 13:55+0330\n"
+"PO-Revision-Date: 2020-01-27 13:56+0330\n"
+"Last-Translator: \n"
+"Language-Team: wp-master.ir\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin-settings.php:83 extra.php:123
+#: gateways/class-cupri-abstract-gateway.php:92
+#: gateways/class-cupri-abstract-gateway.php:168 shortcode.php:5
+msgid ""
+"New pay:\n"
+" {price} \n"
+" {mobile}"
+msgstr ""
+"پرداخت جدید:\n"
+" {price} \n"
+" {mobile}"
+
+#: admin-settings.php:86
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: admin-settings.php:93
+msgid "Notifications"
+msgstr "اطلاع رسانی ها"
+
+#: admin-settings.php:94
+msgid "SMS Notifications"
+msgstr "اطلاع رسانی پیامکی"
+
+#: admin-settings.php:96
+msgid "Admin Mobile(s)"
+msgstr "موبایل مدیر(ان)"
+
+#: admin-settings.php:98
+msgid "Seperate more mobiles with ,"
+msgstr "برای موبایل بیشتر آن را با , از هم جدا کنید"
+
+#: admin-settings.php:101
+msgid "Active notification with sms ?"
+msgstr "فعال کردن اطلاع رسانی با پیامک؟"
+
+#: admin-settings.php:103
+msgid "You need to install and configure this plugin:"
+msgstr "نیاز به نصب این پلاگین است:"
+
+#: admin-settings.php:106
+msgid "SMS format"
+msgstr "فرمت ارسال پیامک"
+
+#: admin-settings.php:108 admin-settings.php:124
+msgid "Possible formats {price} , {mobile}  : "
+msgstr "فرمت های قابل استفاده :  {price} , {mobile} "
+
+#: admin-settings.php:110
+msgid "Email Notifications"
+msgstr "اطلاع رسانی ایمیلی"
+
+#: admin-settings.php:112
+msgid "Admin Email(s)"
+msgstr "ایمیل مدیر(ان)"
+
+#: admin-settings.php:114
+msgid "Seperate more emails with ,"
+msgstr "برای ایمیل های بیشتر آن را با , از هم جدا کنید"
+
+#: admin-settings.php:117
+msgid "Active notification with email ?"
+msgstr "فعال کردن اطلاع رسانی با ایمیل؟"
+
+#: admin-settings.php:122
+msgid "Email format"
+msgstr "فرمت ایمیل"
+
+#: admin-settings.php:128
+msgid "Form"
+msgstr "فرم"
+
+#: admin-settings.php:130
+msgid "change form color"
+msgstr "تغییر رنگ فرم"
+
+#: admin-settings.php:135
+msgid "Disable default style?"
+msgstr "استایل پیشفرض فرم غیرفعال گردد؟"
+
+#: admin-settings.php:140
+msgid "Submit button text"
+msgstr "متن دکمه پرداخت"
+
+#: admin-settings.php:145
+msgid "Success redirect page"
+msgstr "آدرس صفحه موفق"
+
+#: admin-settings.php:147
+msgid ""
+"If payment was successful user redirect to this url , to disable leave it "
+"empty"
+msgstr ""
+"اگر پرداخت موفق بود کاربر به این آدرس برود،جهت غیرفعال شدن خالی بگذارید"
+
+#: admin-settings.php:150
+msgid "Fail redirect page"
+msgstr "آدرس صفحه ناموفق"
+
+#: admin-settings.php:152
+msgid ""
+"If payment was not successful user redirect to this url , to disable leave "
+"it empty"
+msgstr ""
+"اگر پرداخت ناموفق بود کاربر به این آدرس برود،جهت غیرفعال شدن خالی بگذارید"
+
+#: admin-settings.php:155
+msgid "Coutdown value"
+msgstr "مقدار شمارش معکوس"
+
+#: admin-settings.php:161 class-fields-generator.php:277 gateways.php:122
+msgid "Save"
+msgstr "ذخیره"
+
+#: admin-table-header.php:61
+msgid "Total Payed"
+msgstr "مجموع پرداختی"
+
+#: class-fields-generator.php:20
+msgid "Text"
+msgstr "متن تک خطی"
+
+#: class-fields-generator.php:24 class-fields-generator.php:418
+msgid "Checkbox"
+msgstr "گزینه انتخابی"
+
+#: class-fields-generator.php:28 class-fields-generator.php:406
+msgid "Paragraph"
+msgstr "پاراگراف"
+
+#: class-fields-generator.php:36
+msgid "ComboBox"
+msgstr "لیست باز شو"
+
+#: class-fields-generator.php:168
+msgid "+Add Field"
+msgstr "+افزودن فیلد"
+
+#: class-fields-generator.php:195 class-fields-generator.php:218
+#: class-fields-generator.php:243 class-fields-generator.php:378
+msgid "General"
+msgstr "تنظیمات عمومی"
+
+#: class-fields-generator.php:196 class-fields-generator.php:219
+#: class-fields-generator.php:244 class-fields-generator.php:379
+msgid "Field name"
+msgstr "نام فیلد"
+
+#: class-fields-generator.php:199
+msgid "Minimum price"
+msgstr "حداقل مبلغ برای پرداخت"
+
+#: class-fields-generator.php:202
+msgid "Default price"
+msgstr "مبلغ پیشفرض"
+
+#: class-fields-generator.php:206 class-fields-generator.php:223
+#: class-fields-generator.php:248 class-fields-generator.php:396
+msgid "Placeholder"
+msgstr "عنوان نگه دارنده"
+
+#: class-fields-generator.php:227 class-fields-generator.php:252
+msgid "Disable this field ?"
+msgstr "غیرفعال کردن این فیلد؟"
+
+#: class-fields-generator.php:231 class-fields-generator.php:256
+#: class-fields-generator.php:380
+msgid "Required?"
+msgstr "(الزامی)"
+
+#: class-fields-generator.php:278
+msgid "Reset"
+msgstr "بازگردانی همه فیلدها"
+
+#: class-fields-generator.php:308 class-fields-generator.php:322
+msgid "Are You Sure?"
+msgstr "برای حذف مطمئن هستید؟"
+
+#: class-fields-generator.php:362
+msgid "Untitled"
+msgstr "بدون عنوان"
+
+#: class-fields-generator.php:365
+msgid "Field Type"
+msgstr "انتخاب نوع فیلد"
+
+#: class-fields-generator.php:367
+msgid "Select Field Type"
+msgstr "انتخاب نوع فیلد"
+
+#: class-fields-generator.php:381
+msgid "Description"
+msgstr "توضیحات"
+
+#: class-fields-generator.php:389
+msgid "Textbox"
+msgstr "متن تک خطی"
+
+#: class-fields-generator.php:391
+msgid "Default Value"
+msgstr "مقدار پیش فرض"
+
+#: class-fields-generator.php:408
+msgid "Content"
+msgstr "محتوا"
+
+#: class-fields-generator.php:427
+msgid "Combobox"
+msgstr "لیست باز شو"
+
+#: class-payments-list-table.php:21
+msgid "Pay"
+msgstr "پرداخت"
+
+#: class-payments-list-table.php:22
+msgid "Payments"
+msgstr "پرداخت ها"
+
+#: class-payments-list-table.php:34
+msgid "id"
+msgstr "شناسه"
+
+#: class-payments-list-table.php:35
+msgid "status"
+msgstr "وضعیت‌"
+
+#: class-payments-list-table.php:36
+msgid "date"
+msgstr "تاریخ"
+
+#: class-payments-list-table.php:37
+msgid "price"
+msgstr "مبلغ"
+
+#: class-payments-list-table.php:38
+msgid "result code"
+msgstr "شماره رسید"
+
+#: class-payments-list-table.php:76
+msgid "No Items Found"
+msgstr "موردی یافت نشد"
+
+#: cupri.php:24
+msgid "cupri"
+msgstr "کوپری"
+
+#: cupri.php:25
+msgid "Custom price payment"
+msgstr "پرداخت دلخواه"
+
+#: cupri.php:26
+msgid "pardakht delkhah"
+msgstr "پرداخت دلخواه"
+
+#: cupri.php:85 cupri.php:86
+msgid "payment"
+msgstr "پرداخت دلخواه"
+
+#: cupri.php:93
+msgid "No payments found"
+msgstr "پیدا نشد."
+
+#: cupri.php:94
+msgid "No payments found in Trash"
+msgstr "موردی پیدا نشد."
+
+#: cupri.php:96
+msgid "Custom payment"
+msgstr "پرداخت دلخواه"
+
+#: cupri.php:153
+msgid "Custom payments manager"
+msgstr "مدیریت پرداخت دلخواه"
+
+#: cupri.php:188
+msgid "Custom Fields"
+msgstr "فیلدهای دلخواه"
+
+#: cupri.php:189 gateways.php:43
+msgid "Gateway Settings"
+msgstr "تنظیمات درگاه ها"
+
+#: cupri.php:190 cupri.php:226 shortcode.php:13
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: cupri.php:191
+msgid "Help"
+msgstr "راهنما"
+
+#: cupri.php:224 shortcode.php:11
+msgid "Please set the default gateway from admin"
+msgstr "لطفا درگاه پیشفرض را از مدیریت انتخاب کنید"
+
+#: cupri.php:228 shortcode.php:16
+msgid "No defualt gateway was set"
+msgstr "هیچ درگاه پیشفرضی تنظیم نشده است"
+
+#: cupri.php:255
+msgid "Please Fill This Field:"
+msgstr "لطفا این فیلد را تکمیل نمایید:"
+
+#: cupri.php:264
+msgid "Plrease Check This Field Value:"
+msgstr "لطفا این فیلد را بررسی نمایید:"
+
+#: cupri.php:274
+msgid "Please Enter Price"
+msgstr "لطفا مبلغ را وارد نمایید"
+
+#: cupri.php:280
+msgid "Minimum price is : "
+msgstr "حداقل مبلغ برای پرداخت :"
+
+#: cupri.php:293
+msgid "Entered mobile is not correct "
+msgstr "موبایل وارد شده صحیح نیست."
+
+#: cupri.php:310
+msgid "Entered email is not correct "
+msgstr "آدرس ایمیل که نوشته اید معتبر نمی باشد"
+
+#: cupri.php:341
+msgid "Error in payment creation"
+msgstr "خطا در ایجاد پرداخت"
+
+#: extra.php:29
+msgid "Date"
+msgstr "تاریخ"
+
+#: extra.php:31
+msgid "Status"
+msgstr "وضعیت‌"
+
+#: extra.php:32 extra.php:279
+msgid "Result Code"
+msgstr "شماره رسید"
+
+#: extra.php:125
+msgid "Payment"
+msgstr "پرداخت"
+
+#: extra.php:252
+msgid "Home"
+msgstr "خانه"
+
+#: extra.php:271 extra.php:351
+msgid "Price"
+msgstr "مبلغ"
+
+#: extra.php:275
+msgid "Payment Status"
+msgstr "وضعیت پرداخت"
+
+#: extra.php:354
+msgid "Please enter a price"
+msgstr "لطفا مبلغی را وارد نمایید"
+
+#: extra.php:360
+msgid "Name"
+msgstr "نام شما"
+
+#: extra.php:363
+msgid "Please enter your name"
+msgstr "نام خود را وارد نمایید"
+
+#: extra.php:370
+msgid "Mobile"
+msgstr "موبایل"
+
+#: extra.php:373
+msgid "Please enter your mobile"
+msgstr "موبایل خود را وارد نمایید"
+
+#: extra.php:379
+msgid "Email"
+msgstr "آدرس ایمیل"
+
+#: extra.php:381
+msgid "Please enter your email"
+msgstr "ایمیل خود را وارد کنید"
+
+#: extra.php:498
+msgid "Delete"
+msgstr "حذف"
+
+#: gateways.php:41
+msgid "Toman"
+msgstr "تومان"
+
+#: gateways.php:41
+msgid "Rial"
+msgstr "ریال"
+
+#: gateways.php:49
+msgid "Default Gateway"
+msgstr "درگاه پیش فرض"
+
+#: gateways.php:49 gateways.php:60
+msgid "currency"
+msgstr "واحد مالی"
+
+#: gateways.php:60
+msgid "Default Currency"
+msgstr "واحد پرداخت پیشفرض"
+
+#: gateways.php:71
+msgid "Gateways"
+msgstr "درگاه های پرداخت"
+
+#: gateways/class-cupri-abstract-gateway.php:66
+msgid "This order is completed already"
+msgstr "این پرداخت قبلا تکمیل شده است."
+
+#: gateways/class-cupri-abstract-gateway.php:205
+#: gateways/class-cupri-abstract-gateway.php:206
+msgid "New payment "
+msgstr "پرداخت جدید"
+
+#: gateways/class-cupri-zarinpal-gateway.php:116
+msgid "Enable Zarin Gate"
+msgstr "فعال سازی زرین گیت؟"
+
+#: help.php:5
+msgid "Insert into posts or pages"
+msgstr "قرار دادن در نوشته ها یا برگه ها"
+
+#: help.php:5
+msgid "you can use [cupri] shortcode anywhere you want"
+msgstr ""
+"کافیست کدکوتاه [pardakht_delkhah] را در هر مکانی که مورد نظرتان است استفاده "
+"کنید."
+
+#: help.php:6
+msgid "send pre selected value to selectable fields"
+msgstr "ارسال مقدار از پیش تعریف شده برای فیلدهای چندانتخابی"
+
+#: help.php:6
+msgid ""
+"add your value to link of your custom payment page with this sample: http://"
+"yoursite.com/custom-pay/?cupri_fX=Y while X is your field number and Y is "
+"it's value , so when user open this link that field selected value filled "
+"with sent value"
+msgstr ""
+"مقدار خود را مانند این نمونه تایین کنید: http://yoursite.com/custom-pay/?"
+"cupri_fX=Y در این آدرس X شناسه فیلد بوده و Y مقدار آن که با دادن این لینک به "
+"کاربر،مقداری که شما مشخص کرده اید بصورت پیشفرض به انتخاب در خواهد آمد."
+
+#: help.php:7
+msgid "send pre defined value to price field"
+msgstr "ارسال مبلغ پیشفرض به فرم"
+
+#: help.php:7
+msgid "such as above just use <i>price</i> instead of X"
+msgstr ""
+"مانند نمونه بالا ، فقط کافیست به جای شناسه فیلد مقدار  <i>price</i>  را وارد "
+"کنید."
+
+#: shortcode.php:260
+msgid "select one"
+msgstr "- انتخاب -"
+
+#~ msgid "Form Style"
+#~ msgstr "استایل فرم"

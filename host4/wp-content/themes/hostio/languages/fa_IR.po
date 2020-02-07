@@ -1,0 +1,1068 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-19 17:52+0000\n"
+"PO-Revision-Date: 2017-06-20 17:09+0000\n"
+"Last-Translator: WebDesign <Test@Te203lst.com>\n"
+"Language-Team: Persian\n"
+"Language: fa-IR\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: page.php:42 page-templates/other-page.php:33
+#: page-templates/template-home.php:16 hostio/page.php:42
+#: hostio/page-templates/other-page.php:33
+#: hostio/page-templates/template-home.php:16
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+#: functions.php:511 hostio/functions.php:256
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:643 hostio/functions.php:322
+msgid "Pricing detail hosting"
+msgstr ""
+
+#: functions.php:687 hostio/functions.php:344
+msgid "Text button with block: focus"
+msgstr ""
+
+#: functions.php:701 hostio/functions.php:351
+msgid "Link button with block: focus"
+msgstr ""
+
+#: functions.php:845 hostio/functions.php:423
+msgid "contact-form-7"
+msgstr ""
+
+#: functions.php:853 hostio/functions.php:427
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: functions.php:875 hostio/functions.php:438
+msgid "WP Custom Register Login"
+msgstr ""
+
+#: functions.php:877 hostio/functions.php:439
+msgid "wp-custom-register-login"
+msgstr ""
+
+#: functions.php:887 hostio/functions.php:444
+msgid "Hostio Common"
+msgstr ""
+
+#: functions.php:889 hostio/functions.php:445
+msgid "hostio-common"
+msgstr ""
+
+#: functions.php:937 hostio/functions.php:469
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:939 hostio/functions.php:470
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:941 hostio/functions.php:471
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:943 hostio/functions.php:472
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:945 hostio/functions.php:473
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:947 hostio/functions.php:474
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:949 hostio/functions.php:475
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:951 hostio/functions.php:476
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:953 hostio/functions.php:477
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:955 hostio/functions.php:478
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:957 hostio/functions.php:479
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:959 hostio/functions.php:480
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:961 hostio/functions.php:481
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:963 hostio/functions.php:482
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:991 hostio/functions.php:496
+msgid "Import data example hostio"
+msgstr ""
+
+#: 404.php:16 hostio/404.php:16
+msgid "404"
+msgstr ""
+
+#. Name of the template
+#. Name of the template
+msgid "Canvas Home"
+msgstr ""
+
+#: visual/vc_shortcode.php:34 hostio/visual/vc_shortcode.php:34
+msgid "Icon 1 user icon boostrap, font-awesome"
+msgstr ""
+
+#: visual/vc_shortcode.php:52 hostio/visual/vc_shortcode.php:52
+msgid "Icon 2 user icon boostrap, font-awesome"
+msgstr ""
+
+#: visual/vc_shortcode.php:70 hostio/visual/vc_shortcode.php:70
+msgid "Icon 3 user icon boostrap, font-awesome"
+msgstr ""
+
+#: visual/vc_shortcode.php:88 hostio/visual/vc_shortcode.php:88
+msgid "Icon 4 user icon boostrap, font-awesome"
+msgstr ""
+
+#: visual/vc_shortcode.php:106 hostio/visual/vc_shortcode.php:106
+msgid "Icon 5 user icon boostrap, font-awesome"
+msgstr ""
+
+#: visual/vc_shortcode.php:124 hostio/visual/vc_shortcode.php:124
+msgid "Icon 6 user icon boostrap, font-awesome"
+msgstr ""
+
+#: visual/vc_shortcode.php:158 visual/vc_shortcode.php:228
+#: hostio/visual/vc_shortcode.php:158 hostio/visual/vc_shortcode.php:228
+msgid "Icon  user icon boostrap, font-awesome"
+msgstr ""
+
+#: visual/vc_shortcode.php:443 visual/vc_shortcode.php:712
+#: hostio/visual/vc_shortcode.php:443 hostio/visual/vc_shortcode.php:712
+msgid "Icon user icon boostrap, font-awesome"
+msgstr ""
+
+#: visual/vc_shortcode.php:1080 visual/vc_shortcode.php:1157
+#: visual/vc_shortcode.php:1273 hostio/visual/vc_shortcode.php:1080
+#: hostio/visual/vc_shortcode.php:1157 hostio/visual/vc_shortcode.php:1273
+msgid "Id 1"
+msgstr ""
+
+#: visual/vc_shortcode.php:1083 visual/vc_shortcode.php:1160
+#: visual/vc_shortcode.php:1276 hostio/visual/vc_shortcode.php:1083
+#: hostio/visual/vc_shortcode.php:1160 hostio/visual/vc_shortcode.php:1276
+msgid "Id  1"
+msgstr ""
+
+#: visual/vc_shortcode.php:1105 visual/vc_shortcode.php:1173
+#: visual/vc_shortcode.php:1298 hostio/visual/vc_shortcode.php:1105
+#: hostio/visual/vc_shortcode.php:1173 hostio/visual/vc_shortcode.php:1298
+msgid "Id 2"
+msgstr ""
+
+#: visual/vc_shortcode.php:1108 visual/vc_shortcode.php:1176
+#: visual/vc_shortcode.php:1301 hostio/visual/vc_shortcode.php:1108
+#: hostio/visual/vc_shortcode.php:1176 hostio/visual/vc_shortcode.php:1301
+msgid "Id  2"
+msgstr ""
+
+#: visual/vc_shortcode.php:1130 visual/vc_shortcode.php:1189
+#: visual/vc_shortcode.php:1323 hostio/visual/vc_shortcode.php:1130
+#: hostio/visual/vc_shortcode.php:1189 hostio/visual/vc_shortcode.php:1323
+msgid "Id 3"
+msgstr ""
+
+#: visual/vc_shortcode.php:1133 visual/vc_shortcode.php:1192
+#: visual/vc_shortcode.php:1326 hostio/visual/vc_shortcode.php:1133
+#: hostio/visual/vc_shortcode.php:1192 hostio/visual/vc_shortcode.php:1326
+msgid "Id  3"
+msgstr ""
+
+#: visual/vc_shortcode.php:1205 hostio/visual/vc_shortcode.php:1205
+msgid "Id 4"
+msgstr ""
+
+#: visual/vc_shortcode.php:1208 hostio/visual/vc_shortcode.php:1208
+msgid "Id  4"
+msgstr ""
+
+#: visual/vc_shortcode.php:1221 hostio/visual/vc_shortcode.php:1221
+msgid "Id 5"
+msgstr ""
+
+#: visual/vc_shortcode.php:1224 hostio/visual/vc_shortcode.php:1224
+msgid "Id  5"
+msgstr ""
+
+#: visual/vc_shortcode.php:1237 hostio/visual/vc_shortcode.php:1237
+msgid "Id 6"
+msgstr ""
+
+#: visual/vc_shortcode.php:1240 hostio/visual/vc_shortcode.php:1240
+msgid "Id  6"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"In 2017, our default theme lets you create a responsive magazine website "
+"with a sleek, modern design. Feature your favorite homepage content in "
+"either a grid or a slider. Use the three widget areas to customize your "
+"website, and change your content's layout with a full-width page template "
+"and a contributor page to show off your authors. Creating a magazine website "
+"with WordPress has never been easier."
+msgstr ""
+
+#: author.php:11 hostio/author.php:11
+msgid "Author"
+msgstr "نویسنده"
+
+#: author.php:43 category.php:43 single.php:33 search.php:44 tag.php:43
+#: index.php:45 archive.php:41 page-templates/template-blog.php:58
+#: hostio/author.php:43 hostio/category.php:43 hostio/single.php:33
+#: hostio/search.php:44 hostio/tag.php:43 hostio/index.php:45
+#: hostio/archive.php:41 hostio/page-templates/template-blog.php:58
+msgid "Sticky Template"
+msgstr "قالب چسبان"
+
+#: author.php:57 category.php:57 search.php:58 tag.php:57 index.php:59
+#: archive.php:55 page-templates/template-blog.php:72 hostio/author.php:57
+#: hostio/category.php:57 hostio/search.php:58 hostio/tag.php:57
+#: hostio/index.php:59 hostio/archive.php:55
+#: hostio/page-templates/template-blog.php:72
+msgid "Read more"
+msgstr "ادامه مطلب"
+
+#: author.php:61 category.php:61 taxonomy-type.php:31 single.php:48
+#: search.php:62 tag.php:61 index.php:63 archive.php:59 page.php:35
+#: page-templates/template-blog.php:76 hostio/author.php:61
+#: hostio/category.php:61 hostio/taxonomy-type.php:31 hostio/single.php:48
+#: hostio/search.php:62 hostio/tag.php:61 hostio/index.php:63
+#: hostio/archive.php:59 hostio/page.php:35
+#: hostio/page-templates/template-blog.php:76
+msgid " 0 comment"
+msgstr "۰ نظر"
+
+#: category.php:11 hostio/category.php:11
+msgid "Category"
+msgstr "دسته‌بندی"
+
+#: taxonomy-type.php:8 hostio/taxonomy-type.php:8
+#, php-format
+msgid "Taxonomy Archives: %s"
+msgstr "آرشیو طبقه‌بندی: %s"
+
+#: comments.php:15 hostio/comments.php:16
+msgid "Comments"
+msgstr "نظرات"
+
+#: comments.php:23 hostio/comments.php:24
+msgid "Leave a Comment"
+msgstr "نظر دهید"
+
+#: comments.php:26 hostio/comments.php:27
+msgid "Name"
+msgstr "نام"
+
+#: comments.php:30 hostio/comments.php:31
+msgid "Email"
+msgstr "ایمیل"
+
+#: comments.php:37 hostio/comments.php:38
+msgid "Comment"
+msgstr "نظر"
+
+#: comments.php:39 hostio/comments.php:40
+msgid "Submit"
+msgstr "ثبت"
+
+#: search.php:11 hostio/search.php:11 framework/widget/recent-post.php:135
+#: hostio/framework/widget/recent-post.php:135
+msgid "Search"
+msgstr "جستجو"
+
+#: search.php:72 hostio/search.php:72
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"با عرض پوزش، اما چیزی مرتبط با عبارات جستجو شما پیدا نشد. لطفا با برخی از "
+"کلمات کلیدی دیگر دوباره امتحان کنید."
+
+#: tag.php:11 hostio/tag.php:11
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+#. Name of the template
+#. Name of the template
+#: index.php:12 archive.php:11 page-templates/template-blog.php:16
+#: hostio/index.php:12 hostio/archive.php:11
+#: hostio/page-templates/template-blog.php:16
+msgid "Blog"
+msgstr "بلاگ"
+
+#: functions.php:67 hostio/functions.php:34
+msgid ""
+"Primary Navigation Menu: Chosen menu in Home page, single, blog, pages ..."
+msgstr "منو ناوبری اولیه: منوی انتخاب شده در صفحه خانگی، تک، وبلاگ، صفحات ..."
+
+#: functions.php:163 hostio/functions.php:82
+msgid "Primary Sidebar"
+msgstr "منوکناری اولیه"
+
+#: functions.php:167 functions.php:185 hostio/functions.php:84
+#: hostio/functions.php:93
+msgid "Appears in the sidebar section of the site."
+msgstr "در بخش کنارس سایت قرار خواهد گرفت."
+
+#: functions.php:181 hostio/functions.php:91
+msgid "Sidebar Other"
+msgstr "منوکنار دیگر"
+
+#: functions.php:197 hostio/functions.php:99
+msgid "Footer One Widget Area"
+msgstr "فوتر یک در قسمت ابزارک‌ها"
+
+#: functions.php:201 functions.php:217 hostio/functions.php:101
+#: hostio/functions.php:109
+msgid "Footer Widget that appears on the Footer."
+msgstr "ابزارک فوتر که در فوتر نمایش داده میشود."
+
+#: functions.php:213 hostio/functions.php:107
+msgid "Footer Two Widget Area"
+msgstr "فوتر دو در قسمت ابزارک‌ها"
+
+#: functions.php:445 hostio/functions.php:223
+msgctxt "Previous post link"
+msgid " &larr; Older Item"
+msgstr " &larr; موارد قدیمی‌تر"
+
+#: functions.php:451 hostio/functions.php:226
+msgctxt "Next post link"
+msgid "Newer Item &rarr;"
+msgstr "موارد جدیدتر &rarr;"
+
+#: functions.php:471 hostio/functions.php:236
+#: framework/widget/recent-post.php:143
+#: hostio/framework/widget/recent-post.php:143
+msgid "Search..."
+msgstr "جستجو"
+
+#: functions.php:587 hostio/functions.php:294
+msgid "Section Big Title"
+msgstr "عنوان بزرگ بخش"
+
+#: functions.php:593 hostio/functions.php:297
+msgid "Big Title of Section, Leave a blank do not show frontend."
+msgstr "عنوان بزرگ بخش: برای عدم نمایش در وبسایت خالی بگذارید."
+
+#: functions.php:601 hostio/functions.php:301
+msgid "Section Sub Title"
+msgstr "زیرعنوان بخش"
+
+#: functions.php:607 hostio/functions.php:304
+msgid "Section Sub Title, Leave a blank do not show frontend."
+msgstr "زیر عنوان بخش: برای عدم نمایش در وبسایت خالی بگذارید."
+
+#: functions.php:615 hostio/functions.php:308
+msgid "Chosen type row"
+msgstr "نوع انتخاب شده ردیف"
+
+#: functions.php:621 hostio/functions.php:311
+msgid "None Section"
+msgstr "بدون بخش"
+
+#: functions.php:623 hostio/functions.php:312
+msgid "Domain"
+msgstr "دامین"
+
+#: functions.php:625 hostio/functions.php:313
+msgid "Hosting"
+msgstr "هاستینگ"
+
+#: functions.php:627 hostio/functions.php:314
+msgid "Pricing"
+msgstr "قیمت"
+
+#: functions.php:629 hostio/functions.php:315
+msgid "Infomation"
+msgstr "اطلاعات"
+
+#: functions.php:631 hostio/functions.php:316
+msgid "Infomation More"
+msgstr "اطلاعات بیشتر"
+
+#: functions.php:633 hostio/functions.php:317
+msgid "Features More"
+msgstr "ویژگی‌های بیشتر"
+
+#: functions.php:635 hostio/functions.php:318
+msgid "Testimonials"
+msgstr "نظرات مشتریان"
+
+#: functions.php:637 hostio/functions.php:319
+msgid "Services"
+msgstr "خدمات"
+
+#: functions.php:639 hostio/functions.php:320
+msgid "Team"
+msgstr "تیم کاری"
+
+#: functions.php:641 hostio/functions.php:321
+msgid "Pricing one title"
+msgstr "جدول قیمت یک"
+
+#: functions.php:645 hostio/functions.php:323
+msgid "Platforms"
+msgstr "پلتفرم‌ها"
+
+#: functions.php:647 hostio/functions.php:324
+msgid "Help"
+msgstr "راهنمایی"
+
+#: functions.php:649 hostio/functions.php:325
+msgid "Searchholder"
+msgstr "متن کادر جستجو"
+
+#: functions.php:651 hostio/functions.php:326
+msgid "Login"
+msgstr "ورود"
+
+#: functions.php:657 hostio/functions.php:329
+msgid "Select type row"
+msgstr "انتخاب نوع ردیف"
+
+#: functions.php:667 hostio/functions.php:334
+msgid "Section Content"
+msgstr "بخش محتوا"
+
+#: functions.php:673 hostio/functions.php:337
+msgid "Section Content, Leave a blank do not show frontend."
+msgstr "بخش محتوا: برای عدم نمایش در وبسایت خالی بگذارید."
+
+#: functions.php:681 hostio/functions.php:341
+msgid "Section Text"
+msgstr "بخش متن"
+
+#: functions.php:695 hostio/functions.php:348
+msgid "Section Link"
+msgstr "لینک بخش"
+
+#: functions.php:709 hostio/functions.php:355
+msgid "Image Background"
+msgstr "تصویر پس‌زمینه"
+
+#: functions.php:715 hostio/functions.php:358
+msgid "Select image from media library to do your signature."
+msgstr ""
+"تصویر مورد نظر خود را از رسانه انتخاب کنید تا امضای موردنظر خود را بزنید."
+
+#: functions.php:723 hostio/functions.php:362
+msgid "Section Color"
+msgstr "رنگ بخش"
+
+#: functions.php:729 hostio/functions.php:365
+msgid "Link Color(green , pink , purple)"
+msgstr "رنگ لینک(سبز , صورتی , بنفش)"
+
+#: functions.php:737 hostio/functions.php:369
+msgid "Section Icon Name"
+msgstr "نام آیکون بخش"
+
+#: functions.php:743 hostio/functions.php:372
+msgid "Link Icon Name"
+msgstr "نام آیکون لینک"
+
+#: functions.php:843 hostio/functions.php:422
+msgid "Contact Form 7"
+msgstr "فرم تماس ۷"
+
+#: functions.php:855 hostio/functions.php:428
+msgid "visualcomposer"
+msgstr "صفحه‌ساز"
+
+#: functions.php:931 hostio/functions.php:466
+msgid "Install Required Plugins"
+msgstr "نصب افزونه‌های موردنیاز"
+
+#: functions.php:933 hostio/functions.php:467
+msgid "Install Plugins"
+msgstr "نصب افزونه‌ها"
+
+#: functions.php:935 hostio/functions.php:468
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "در حال نصب افزونه: %s"
+
+#: 404.php:22 hostio/404.php:22
+msgid "Oops!! Page not found"
+msgstr "متأسفانه صفحه موردنظر پیدا نشد"
+
+#: 404.php:25 hostio/404.php:25
+msgid "Make sure that you have typed the correct URL"
+msgstr "از درست تایپ کردن آدرس صفحه مطمئن شوید."
+
+#: 404.php:26 hostio/404.php:26
+msgid "Back to home page"
+msgstr "بازگشت به صفحه اصلی"
+
+#. Name of the template
+#. Name of the template
+msgid "Other Page"
+msgstr "صفحه دیگر"
+
+#: page-templates/other-page.php:20 hostio/page-templates/other-page.php:20
+msgid "Home"
+msgstr "خانه"
+
+#. Name of the template
+#. Name of the template
+msgid "Login Register"
+msgstr "ورود ثبت‌نام"
+
+#: visual/vc_shortcode.php:31 hostio/visual/vc_shortcode.php:31
+msgid "Icon 1"
+msgstr "آیکون ۱"
+
+#: visual/vc_shortcode.php:40 hostio/visual/vc_shortcode.php:40
+msgid "Link 1"
+msgstr "لینک ۱"
+
+#: visual/vc_shortcode.php:43 hostio/visual/vc_shortcode.php:43
+msgid "Link 1 "
+msgstr "لینک ۱"
+
+#: visual/vc_shortcode.php:49 hostio/visual/vc_shortcode.php:49
+msgid "Icon 2"
+msgstr "آیکون ۲"
+
+#: visual/vc_shortcode.php:58 hostio/visual/vc_shortcode.php:58
+msgid "Link 2"
+msgstr "لینک ۲"
+
+#: visual/vc_shortcode.php:61 hostio/visual/vc_shortcode.php:61
+msgid "Link 2 "
+msgstr "لینک ۲"
+
+#: visual/vc_shortcode.php:67 hostio/visual/vc_shortcode.php:67
+msgid "Icon 3"
+msgstr "آیکون ۳"
+
+#: visual/vc_shortcode.php:76 hostio/visual/vc_shortcode.php:76
+msgid "Link 3"
+msgstr "لینک ۳"
+
+#: visual/vc_shortcode.php:79 hostio/visual/vc_shortcode.php:79
+msgid "Link 3 "
+msgstr "لینک ۳"
+
+#: visual/vc_shortcode.php:85 hostio/visual/vc_shortcode.php:85
+msgid "Icon 4"
+msgstr "آیکون ۴"
+
+#: visual/vc_shortcode.php:94 hostio/visual/vc_shortcode.php:94
+msgid "Link 4"
+msgstr "لینک ۴"
+
+#: visual/vc_shortcode.php:97 hostio/visual/vc_shortcode.php:97
+msgid "Link 4 "
+msgstr "لینک ۴"
+
+#: visual/vc_shortcode.php:103 hostio/visual/vc_shortcode.php:103
+msgid "Icon 5"
+msgstr "آیکون ۵"
+
+#: visual/vc_shortcode.php:112 hostio/visual/vc_shortcode.php:112
+msgid "Link 5"
+msgstr "لینک ۵"
+
+#: visual/vc_shortcode.php:115 hostio/visual/vc_shortcode.php:115
+msgid "Link 5 "
+msgstr "لینک ۵"
+
+#: visual/vc_shortcode.php:121 hostio/visual/vc_shortcode.php:121
+msgid "Icon 6"
+msgstr "آیکون ۶"
+
+#: visual/vc_shortcode.php:130 hostio/visual/vc_shortcode.php:130
+msgid "Link 6"
+msgstr "لینک ۶"
+
+#: visual/vc_shortcode.php:133 hostio/visual/vc_shortcode.php:133
+msgid "Link 6 "
+msgstr "لینک ۶"
+
+#: visual/vc_shortcode.php:155 visual/vc_shortcode.php:225
+#: visual/vc_shortcode.php:1635 hostio/visual/vc_shortcode.php:155
+#: hostio/visual/vc_shortcode.php:225 hostio/visual/vc_shortcode.php:1635
+msgid "Icon "
+msgstr "آیکون"
+
+#: visual/vc_shortcode.php:164 visual/vc_shortcode.php:234
+#: visual/vc_shortcode.php:346 visual/vc_shortcode.php:385
+#: visual/vc_shortcode.php:449 visual/vc_shortcode.php:485
+#: visual/vc_shortcode.php:532 visual/vc_shortcode.php:570
+#: visual/vc_shortcode.php:599 visual/vc_shortcode.php:673
+#: visual/vc_shortcode.php:718 visual/vc_shortcode.php:738
+#: visual/vc_shortcode.php:768 visual/vc_shortcode.php:1350
+#: visual/vc_shortcode.php:1413 visual/vc_shortcode.php:1433
+#: visual/vc_shortcode.php:1453 visual/vc_shortcode.php:1511
+#: visual/vc_shortcode.php:1550 visual/vc_shortcode.php:1588
+#: visual/vc_shortcode.php:1617 hostio/visual/vc_shortcode.php:164
+#: hostio/visual/vc_shortcode.php:234 hostio/visual/vc_shortcode.php:346
+#: hostio/visual/vc_shortcode.php:385 hostio/visual/vc_shortcode.php:449
+#: hostio/visual/vc_shortcode.php:485 hostio/visual/vc_shortcode.php:532
+#: hostio/visual/vc_shortcode.php:570 hostio/visual/vc_shortcode.php:599
+#: hostio/visual/vc_shortcode.php:673 hostio/visual/vc_shortcode.php:718
+#: hostio/visual/vc_shortcode.php:738 hostio/visual/vc_shortcode.php:768
+#: hostio/visual/vc_shortcode.php:1350 hostio/visual/vc_shortcode.php:1413
+#: hostio/visual/vc_shortcode.php:1433 hostio/visual/vc_shortcode.php:1453
+#: hostio/visual/vc_shortcode.php:1511 hostio/visual/vc_shortcode.php:1550
+#: hostio/visual/vc_shortcode.php:1588 hostio/visual/vc_shortcode.php:1617
+msgid "Title "
+msgstr "عنوان"
+
+#: visual/vc_shortcode.php:167 visual/vc_shortcode.php:237
+#: visual/vc_shortcode.php:349 visual/vc_shortcode.php:388
+#: visual/vc_shortcode.php:452 visual/vc_shortcode.php:488
+#: visual/vc_shortcode.php:535 visual/vc_shortcode.php:573
+#: visual/vc_shortcode.php:602 visual/vc_shortcode.php:676
+#: visual/vc_shortcode.php:721 visual/vc_shortcode.php:741
+#: visual/vc_shortcode.php:771 visual/vc_shortcode.php:1353
+#: visual/vc_shortcode.php:1416 visual/vc_shortcode.php:1436
+#: visual/vc_shortcode.php:1456 visual/vc_shortcode.php:1514
+#: visual/vc_shortcode.php:1553 visual/vc_shortcode.php:1591
+#: visual/vc_shortcode.php:1620 hostio/visual/vc_shortcode.php:167
+#: hostio/visual/vc_shortcode.php:237 hostio/visual/vc_shortcode.php:349
+#: hostio/visual/vc_shortcode.php:388 hostio/visual/vc_shortcode.php:452
+#: hostio/visual/vc_shortcode.php:488 hostio/visual/vc_shortcode.php:535
+#: hostio/visual/vc_shortcode.php:573 hostio/visual/vc_shortcode.php:602
+#: hostio/visual/vc_shortcode.php:676 hostio/visual/vc_shortcode.php:721
+#: hostio/visual/vc_shortcode.php:741 hostio/visual/vc_shortcode.php:771
+#: hostio/visual/vc_shortcode.php:1353 hostio/visual/vc_shortcode.php:1416
+#: hostio/visual/vc_shortcode.php:1436 hostio/visual/vc_shortcode.php:1456
+#: hostio/visual/vc_shortcode.php:1514 hostio/visual/vc_shortcode.php:1553
+#: hostio/visual/vc_shortcode.php:1591 hostio/visual/vc_shortcode.php:1620
+msgid "Title  "
+msgstr "لینک ۱"
+
+#: visual/vc_shortcode.php:173 visual/vc_shortcode.php:243
+#: visual/vc_shortcode.php:355 visual/vc_shortcode.php:394
+#: visual/vc_shortcode.php:458 visual/vc_shortcode.php:494
+#: visual/vc_shortcode.php:579 hostio/visual/vc_shortcode.php:173
+#: hostio/visual/vc_shortcode.php:243 hostio/visual/vc_shortcode.php:355
+#: hostio/visual/vc_shortcode.php:394 hostio/visual/vc_shortcode.php:458
+#: hostio/visual/vc_shortcode.php:494 hostio/visual/vc_shortcode.php:579
+msgid "Description "
+msgstr "توضیح"
+
+#: visual/vc_shortcode.php:176 visual/vc_shortcode.php:246
+#: visual/vc_shortcode.php:358 visual/vc_shortcode.php:397
+#: visual/vc_shortcode.php:461 visual/vc_shortcode.php:497
+#: hostio/visual/vc_shortcode.php:176 hostio/visual/vc_shortcode.php:246
+#: hostio/visual/vc_shortcode.php:358 hostio/visual/vc_shortcode.php:397
+#: hostio/visual/vc_shortcode.php:461 hostio/visual/vc_shortcode.php:497
+msgid "Description  "
+msgstr "توضیح"
+
+#: visual/vc_shortcode.php:182 visual/vc_shortcode.php:288
+#: visual/vc_shortcode.php:403 visual/vc_shortcode.php:541
+#: visual/vc_shortcode.php:1032 hostio/visual/vc_shortcode.php:182
+#: hostio/visual/vc_shortcode.php:288 hostio/visual/vc_shortcode.php:403
+#: hostio/visual/vc_shortcode.php:541 hostio/visual/vc_shortcode.php:1032
+msgid "Button Name "
+msgstr "نام دکمه"
+
+#: visual/vc_shortcode.php:185 visual/vc_shortcode.php:291
+#: visual/vc_shortcode.php:406 visual/vc_shortcode.php:544
+#: visual/vc_shortcode.php:1035 hostio/visual/vc_shortcode.php:185
+#: hostio/visual/vc_shortcode.php:291 hostio/visual/vc_shortcode.php:406
+#: hostio/visual/vc_shortcode.php:544 hostio/visual/vc_shortcode.php:1035
+msgid "Button Name  "
+msgstr "نام دکمه"
+
+#: visual/vc_shortcode.php:191 visual/vc_shortcode.php:297
+#: visual/vc_shortcode.php:412 visual/vc_shortcode.php:550
+#: visual/vc_shortcode.php:1041 hostio/visual/vc_shortcode.php:191
+#: hostio/visual/vc_shortcode.php:297 hostio/visual/vc_shortcode.php:412
+#: hostio/visual/vc_shortcode.php:550 hostio/visual/vc_shortcode.php:1041
+msgid "Button Link "
+msgstr "لینک دکمه"
+
+#: visual/vc_shortcode.php:194 visual/vc_shortcode.php:300
+#: visual/vc_shortcode.php:415 visual/vc_shortcode.php:553
+#: visual/vc_shortcode.php:1044 hostio/visual/vc_shortcode.php:194
+#: hostio/visual/vc_shortcode.php:300 hostio/visual/vc_shortcode.php:415
+#: hostio/visual/vc_shortcode.php:553 hostio/visual/vc_shortcode.php:1044
+msgid "Button Link  "
+msgstr "لینک دکمه"
+
+#: visual/vc_shortcode.php:252 hostio/visual/vc_shortcode.php:252
+msgid "Sub title "
+msgstr "زیرعنوان"
+
+#: visual/vc_shortcode.php:255 hostio/visual/vc_shortcode.php:255
+msgid "Sub title  "
+msgstr "زیرعنوان"
+
+#: visual/vc_shortcode.php:261 visual/vc_shortcode.php:777
+#: hostio/visual/vc_shortcode.php:261 hostio/visual/vc_shortcode.php:777
+msgid "currency "
+msgstr "واحد پول"
+
+#: visual/vc_shortcode.php:264 visual/vc_shortcode.php:780
+#: hostio/visual/vc_shortcode.php:264 hostio/visual/vc_shortcode.php:780
+msgid "currency  "
+msgstr "واحد پول"
+
+#: visual/vc_shortcode.php:270 visual/vc_shortcode.php:273
+#: visual/vc_shortcode.php:786 visual/vc_shortcode.php:789
+#: hostio/visual/vc_shortcode.php:270 hostio/visual/vc_shortcode.php:273
+#: hostio/visual/vc_shortcode.php:786 hostio/visual/vc_shortcode.php:789
+msgid "amount"
+msgstr "مقدار"
+
+#: visual/vc_shortcode.php:279 visual/vc_shortcode.php:282
+#: visual/vc_shortcode.php:795 visual/vc_shortcode.php:798
+#: hostio/visual/vc_shortcode.php:279 hostio/visual/vc_shortcode.php:282
+#: hostio/visual/vc_shortcode.php:795 hostio/visual/vc_shortcode.php:798
+msgid "duration"
+msgstr "مدت زمان"
+
+#: visual/vc_shortcode.php:440 visual/vc_shortcode.php:709
+#: visual/vc_shortcode.php:1638 hostio/visual/vc_shortcode.php:440
+#: hostio/visual/vc_shortcode.php:709 hostio/visual/vc_shortcode.php:1638
+msgid "Icon  "
+msgstr "آیکون"
+
+#: visual/vc_shortcode.php:503 hostio/visual/vc_shortcode.php:503
+msgid "Name "
+msgstr "نام"
+
+#: visual/vc_shortcode.php:506 hostio/visual/vc_shortcode.php:506
+msgid "Name  "
+msgstr "نام"
+
+#: visual/vc_shortcode.php:512 hostio/visual/vc_shortcode.php:512
+msgid "Job "
+msgstr "شغل"
+
+#: visual/vc_shortcode.php:515 hostio/visual/vc_shortcode.php:515
+msgid "Job  "
+msgstr "شغل"
+
+#: visual/vc_shortcode.php:582 hostio/visual/vc_shortcode.php:582
+msgid "Description"
+msgstr "توضیح"
+
+#: visual/vc_shortcode.php:619 visual/vc_shortcode.php:1071
+#: visual/vc_shortcode.php:1264 hostio/visual/vc_shortcode.php:619
+#: hostio/visual/vc_shortcode.php:1071 hostio/visual/vc_shortcode.php:1264
+msgid "Title 1"
+msgstr "عنوان ۱"
+
+#: visual/vc_shortcode.php:622 visual/vc_shortcode.php:1074
+#: visual/vc_shortcode.php:1267 hostio/visual/vc_shortcode.php:622
+#: hostio/visual/vc_shortcode.php:1074 hostio/visual/vc_shortcode.php:1267
+msgid "Title  1"
+msgstr "عنوان ۱"
+
+#: visual/vc_shortcode.php:628 visual/vc_shortcode.php:1359
+#: hostio/visual/vc_shortcode.php:628 hostio/visual/vc_shortcode.php:1359
+msgid "Desc 1"
+msgstr "توضیح ۱"
+
+#: visual/vc_shortcode.php:631 hostio/visual/vc_shortcode.php:631
+msgid "Desc  1"
+msgstr "توضیح ۱"
+
+#: visual/vc_shortcode.php:637 visual/vc_shortcode.php:1096
+#: visual/vc_shortcode.php:1289 hostio/visual/vc_shortcode.php:637
+#: hostio/visual/vc_shortcode.php:1096 hostio/visual/vc_shortcode.php:1289
+msgid "Title 2"
+msgstr "عنوان ۲"
+
+#: visual/vc_shortcode.php:640 visual/vc_shortcode.php:1099
+#: visual/vc_shortcode.php:1292 hostio/visual/vc_shortcode.php:640
+#: hostio/visual/vc_shortcode.php:1099 hostio/visual/vc_shortcode.php:1292
+msgid "Title  2"
+msgstr "عنوان ۲"
+
+#: visual/vc_shortcode.php:646 visual/vc_shortcode.php:1386
+#: hostio/visual/vc_shortcode.php:646 hostio/visual/vc_shortcode.php:1386
+msgid "Desc 2"
+msgstr "توضیح ۲"
+
+#: visual/vc_shortcode.php:649 hostio/visual/vc_shortcode.php:649
+msgid "Desc  2"
+msgstr "توضیح ۲"
+
+#: visual/vc_shortcode.php:682 visual/vc_shortcode.php:747
+#: visual/vc_shortcode.php:1462 visual/vc_shortcode.php:1520
+#: visual/vc_shortcode.php:1559 visual/vc_shortcode.php:1597
+#: visual/vc_shortcode.php:1626 hostio/visual/vc_shortcode.php:682
+#: hostio/visual/vc_shortcode.php:747 hostio/visual/vc_shortcode.php:1462
+#: hostio/visual/vc_shortcode.php:1520 hostio/visual/vc_shortcode.php:1559
+#: hostio/visual/vc_shortcode.php:1597 hostio/visual/vc_shortcode.php:1626
+msgid "Desc "
+msgstr "توضیح"
+
+#: visual/vc_shortcode.php:685 visual/vc_shortcode.php:750
+#: visual/vc_shortcode.php:1465 visual/vc_shortcode.php:1523
+#: visual/vc_shortcode.php:1562 visual/vc_shortcode.php:1600
+#: visual/vc_shortcode.php:1629 hostio/visual/vc_shortcode.php:685
+#: hostio/visual/vc_shortcode.php:750 hostio/visual/vc_shortcode.php:1465
+#: hostio/visual/vc_shortcode.php:1523 hostio/visual/vc_shortcode.php:1562
+#: hostio/visual/vc_shortcode.php:1600 hostio/visual/vc_shortcode.php:1629
+msgid "Desc  "
+msgstr "توضیح"
+
+#: visual/vc_shortcode.php:804 visual/vc_shortcode.php:807
+#: hostio/visual/vc_shortcode.php:804 hostio/visual/vc_shortcode.php:807
+msgid "Detail 1"
+msgstr "جزئیات ۱"
+
+#: visual/vc_shortcode.php:823 visual/vc_shortcode.php:826
+#: hostio/visual/vc_shortcode.php:823 hostio/visual/vc_shortcode.php:826
+msgid "Detail 2"
+msgstr "جزئیات ۲"
+
+#: visual/vc_shortcode.php:842 visual/vc_shortcode.php:845
+#: hostio/visual/vc_shortcode.php:842 hostio/visual/vc_shortcode.php:845
+msgid "Detail 3"
+msgstr "جزئیات ۳"
+
+#: visual/vc_shortcode.php:861 visual/vc_shortcode.php:864
+#: hostio/visual/vc_shortcode.php:861 hostio/visual/vc_shortcode.php:864
+msgid "Detail 4"
+msgstr "جزئیات ۴"
+
+#: visual/vc_shortcode.php:880 visual/vc_shortcode.php:883
+#: hostio/visual/vc_shortcode.php:880 hostio/visual/vc_shortcode.php:883
+msgid "Detail 5"
+msgstr "جزئیات ۵"
+
+#: visual/vc_shortcode.php:899 visual/vc_shortcode.php:902
+#: hostio/visual/vc_shortcode.php:899 hostio/visual/vc_shortcode.php:902
+msgid "Detail 6"
+msgstr "جزئیات ۶"
+
+#: visual/vc_shortcode.php:918 visual/vc_shortcode.php:921
+#: hostio/visual/vc_shortcode.php:918 hostio/visual/vc_shortcode.php:921
+msgid "Detail 7"
+msgstr "جزئیات ۷"
+
+#: visual/vc_shortcode.php:937 visual/vc_shortcode.php:940
+#: hostio/visual/vc_shortcode.php:937 hostio/visual/vc_shortcode.php:940
+msgid "Detail 8"
+msgstr "جزئیات ۸"
+
+#: visual/vc_shortcode.php:956 visual/vc_shortcode.php:959
+#: hostio/visual/vc_shortcode.php:956 hostio/visual/vc_shortcode.php:959
+msgid "Detail 9"
+msgstr "جزئیات ۹"
+
+#: visual/vc_shortcode.php:975 visual/vc_shortcode.php:978
+#: hostio/visual/vc_shortcode.php:975 hostio/visual/vc_shortcode.php:978
+msgid "Detail 10"
+msgstr "جزئیات ۱۰"
+
+#: visual/vc_shortcode.php:994 visual/vc_shortcode.php:997
+#: hostio/visual/vc_shortcode.php:994 hostio/visual/vc_shortcode.php:997
+msgid "Detail 11"
+msgstr "جزئیات ۱۱"
+
+#: visual/vc_shortcode.php:1013 visual/vc_shortcode.php:1016
+#: hostio/visual/vc_shortcode.php:1013 hostio/visual/vc_shortcode.php:1016
+msgid "Detail 12"
+msgstr "جزئیات ۱۲"
+
+#: visual/vc_shortcode.php:1121 visual/vc_shortcode.php:1314
+#: hostio/visual/vc_shortcode.php:1121 hostio/visual/vc_shortcode.php:1314
+msgid "Title 3"
+msgstr "عنوان ۳"
+
+#: visual/vc_shortcode.php:1124 visual/vc_shortcode.php:1317
+#: hostio/visual/vc_shortcode.php:1124 hostio/visual/vc_shortcode.php:1317
+msgid "Title  3"
+msgstr "عنوان ۳"
+
+#: visual/vc_shortcode.php:1362 hostio/visual/vc_shortcode.php:1362
+msgid "Desc 1 "
+msgstr "توضیح ۱"
+
+#: visual/vc_shortcode.php:1368 hostio/visual/vc_shortcode.php:1368
+msgid "Link"
+msgstr "لینک"
+
+#: visual/vc_shortcode.php:1371 visual/vc_shortcode.php:1480
+#: visual/vc_shortcode.php:1568 visual/vc_shortcode.php:1644
+#: hostio/visual/vc_shortcode.php:1371 hostio/visual/vc_shortcode.php:1480
+#: hostio/visual/vc_shortcode.php:1568 hostio/visual/vc_shortcode.php:1644
+msgid "Link "
+msgstr "لینک"
+
+#: visual/vc_shortcode.php:1377 hostio/visual/vc_shortcode.php:1377
+msgid "Value"
+msgstr "ارزش"
+
+#: visual/vc_shortcode.php:1380 hostio/visual/vc_shortcode.php:1380
+msgid "Value "
+msgstr "ارزش"
+
+#: visual/vc_shortcode.php:1389 hostio/visual/vc_shortcode.php:1389
+msgid "Desc 2 "
+msgstr "توضیح ۲"
+
+#: visual/vc_shortcode.php:1471 hostio/visual/vc_shortcode.php:1471
+msgid "Icon name "
+msgstr "نام آیکون"
+
+#: visual/vc_shortcode.php:1474 hostio/visual/vc_shortcode.php:1474
+msgid "Icon name  "
+msgstr "نام آیکون"
+
+#: visual/vc_shortcode.php:1483 visual/vc_shortcode.php:1571
+#: visual/vc_shortcode.php:1647 hostio/visual/vc_shortcode.php:1483
+#: hostio/visual/vc_shortcode.php:1571 hostio/visual/vc_shortcode.php:1647
+msgid "Link  "
+msgstr "لینک"
+
+#: framework/widget/recent-post.php:10
+#: hostio/framework/widget/recent-post.php:10
+msgid "The most recent posts on your site"
+msgstr "آخرین پست‌های وب‌سایت شما"
+
+#: framework/widget/recent-post.php:11
+#: hostio/framework/widget/recent-post.php:11
+msgid "hostio Recent Posts"
+msgstr "آخرین پست‌های هاستیو"
+
+#: framework/widget/recent-post.php:33
+#: hostio/framework/widget/recent-post.php:33
+msgid "Recent Posts"
+msgstr "آخرین پست‌ها"
+
+#: framework/widget/recent-post.php:88 framework/widget/recent-post.php:174
+#: hostio/framework/widget/recent-post.php:88
+#: hostio/framework/widget/recent-post.php:174
+msgid "Title:"
+msgstr "عنوان:"
+
+#: framework/widget/recent-post.php:91
+#: hostio/framework/widget/recent-post.php:91
+msgid "Number of posts to show:"
+msgstr "تعداد پست‌ها برای نمایش"
+
+#: framework/widget/recent-post.php:95
+#: hostio/framework/widget/recent-post.php:95
+msgid "Display post date?"
+msgstr "نتاریخ پست نمایش داده شود؟"
+
+#: framework/widget/recent-post.php:111
+#: hostio/framework/widget/recent-post.php:111
+msgid "Search on your site"
+msgstr "جستجو در سایت شما"
+
+#: framework/widget/recent-post.php:112
+#: hostio/framework/widget/recent-post.php:112
+msgid "hostio Search"
+msgstr "جستجوی هاستیو"
+
+#. Name of the theme
+msgid "Hostio"
+msgstr "هاستیو"
+
+#. URI of the theme
+msgid "http://shtheme.com/demosd/hostio"
+msgstr "http://hi-shop.ir/hostio/"
+
+#. Author of the theme
+msgid "Verga Theme Team"
+msgstr "های شاپ"
+
+#. Author URI of the theme
+msgid "http://shtheme.com"
+msgstr "http://hi-shop.ir/"
+
+#: author.php:61 category.php:61 taxonomy-type.php:31 single.php:48
+#: search.php:62 tag.php:61 index.php:63 archive.php:59 page.php:35
+#: page-templates/template-blog.php:76 hostio/author.php:61
+#: hostio/category.php:61 hostio/taxonomy-type.php:31 hostio/single.php:48
+#: hostio/search.php:62 hostio/tag.php:61 hostio/index.php:63
+#: hostio/archive.php:59 hostio/page.php:35
+#: hostio/page-templates/template-blog.php:76
+msgid " 1 comment"
+msgstr "1 دیدگاه"
